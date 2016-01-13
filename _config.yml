@@ -1,5 +1,7 @@
-favicon: null
-name: Criminal Defense
+analytics:
+  twitter: null
+  google: null
+  facebook: null
 opengraph:
   image: null
   type: null
@@ -10,31 +12,29 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
 purpose: []
 color:
   saturation: 0
-  brandStrength: 0.4898066737223417
-  lightness: 0.3936627
+  brandStrength: 0.7416756
+  lightness: 0.6589689
   brandColors:
-    - '#E0FBFC'
-    - '#C2DFE3'
-    - '#9DB4C0'
-    - '#5C6B73'
-    - '#253237'
-  rhythmicContrast: 0.255102
+    - '#010101'
+    - '#645430'
+    - '#A49965'
+    - '#C7BB88'
+    - '#797971'
+  rhythmicContrast: 0.3711063
 typography_spectrum: 1
-layout_spectrum: 0.0424275
-analytics:
-  twitter: null
-  google: null
-  facebook: null
 cta:
   bucket: null
   version: null
   domain: null
+layout_spectrum: 0.04672394
+favicon: null
+name: Criminal Defense
