@@ -1,4 +1,5 @@
-layout_spectrum: 0.0424275
+favicon: null
+name: Criminal Defense
 opengraph:
   image: null
   type: null
@@ -17,24 +18,23 @@ collections:
       number: 10
 purpose: []
 color:
-  saturation: 0.2590582312550396
+  saturation: 0
   brandStrength: 0.4898066737223417
-  rhythmicContrast: 0.6407222610432655
+  lightness: 0.3936627
   brandColors:
     - '#E0FBFC'
     - '#C2DFE3'
     - '#9DB4C0'
     - '#5C6B73'
     - '#253237'
-  lightness: 0.172780976863578
+  rhythmicContrast: 0.255102
 typography_spectrum: 1
-cta:
-  bucket: null
-  version: null
-  domain: null
+layout_spectrum: 0.0424275
 analytics:
   twitter: null
   google: null
   facebook: null
-favicon: null
-name: Criminal Defense
+cta:
+  bucket: null
+  version: null
+  domain: null
